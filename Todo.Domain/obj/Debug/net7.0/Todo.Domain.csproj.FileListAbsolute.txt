@@ -1,0 +1,12 @@
+C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain\bin\Debug\net7.0\Todo.Domain.deps.json
+C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain\bin\Debug\net7.0\Todo.Domain.dll
+C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain\bin\Debug\net7.0\Todo.Domain.pdb
+C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain\obj\Debug\net7.0\Todo.Domain.csproj.AssemblyReference.cache
+C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain\obj\Debug\net7.0\Todo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain\obj\Debug\net7.0\Todo.Domain.AssemblyInfoInputs.cache
+C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain\obj\Debug\net7.0\Todo.Domain.AssemblyInfo.cs
+C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain\obj\Debug\net7.0\Todo.Domain.csproj.CoreCompileInputs.cache
+C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain\obj\Debug\net7.0\Todo.Domain.dll
+C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain\obj\Debug\net7.0\refint\Todo.Domain.dll
+C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain\obj\Debug\net7.0\Todo.Domain.pdb
+C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain\obj\Debug\net7.0\ref\Todo.Domain.dll
