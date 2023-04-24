@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Bx7NxSIOxQF3ImbStmbtg2FdCGr2WjOsGJqQcKBAzjWw8EkXcTTrZYUXPp2++bm/i7Zn2DR8mgduuNr0UTRaPg==",
+  "dgSpecHash": "u3z5hC2za9X7dlZT5HtlToNvyXeuL6BSUO+YWFgLWgE01htwRtiigcRDQru/cDxr6QwHJYTP8b9NBg1OFkbd2Q==",
   "success": true,
   "projectFilePath": "C:\\dev\\ToDo_API_CQRS\\todo-api-with-cqrs\\Todo.Domain.Tests\\Todo.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tapio\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
+    "C:\\Users\\tapio\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\tapio\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
     "C:\\Users\\tapio\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\tapio\\.nuget\\packages\\microsoft.net.test.sdk\\17.3.2\\microsoft.net.test.sdk.17.3.2.nupkg.sha512",

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "e7mwEdag6foSWneodVXpx9FtvJ3hMSv+blDtjx3KTjPQI+4fCbqO6VFPF1IGt8zInC+Fn/am5iXDeadcYvNziQ==",
+  "dgSpecHash": "OEbdf00XgzrsFpD1DRn+H5ZS/M0KpsrLboINgj6ThtQ4tLElk1iBgNIJrsYz+TnmczWlTYGUXpHWd3ZKJjf9EQ==",
   "success": true,
   "projectFilePath": "C:\\dev\\ToDo_API_CQRS\\todo-api-with-cqrs\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\tapio\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

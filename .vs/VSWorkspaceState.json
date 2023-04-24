@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Todo.Domain",
+    "\\Todo.Domain\\Entities"
   ],
+  "SelectedNode": "\\Todo.Domain\\Entities\\Todo.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dbQW8x/Urfis+jLgDKa761x6ewC2w/GHzBpbrWxcvtL8OcFZkk/oh/bPUTSDBOyZWXAU5kW//80yCCcLN3y3Hw==",
+  "dgSpecHash": "5qf//R1eoabJT6RxdV5Ibn+VjC560Dr2va+e2xkHA43oPLQHI6jz5VL7eGTDEtVW03pBOhlQs5dfRvmr/w5xcw==",
   "success": true,
   "projectFilePath": "C:\\dev\\ToDo_API_CQRS\\todo-api-with-cqrs\\Todo.Domain.API\\Todo.Domain.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\tapio\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\tapio\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.4\\microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
     "C:\\Users\\tapio\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\tapio\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
