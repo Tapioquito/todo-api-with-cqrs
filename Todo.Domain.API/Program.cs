@@ -1,5 +1,7 @@
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.SqlServer;
+using Microsoft.IdentityModel.Tokens;
 using Todo.Domain.Handlers;
 using Todo.Domain.Infra.Contexts;
 using Todo.Domain.Infra.Repositories;
@@ -18,6 +20,23 @@ builder.Services.AddDbContext<DataContext>(opt => opt.UseSqlServer(connectionStr
 
 builder.Services.AddTransient<ITodoRepository, TodoRepository>();
 builder.Services.AddTransient<TodoHandler, TodoHandler>();
+
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+    .AddJwtBearer(options =>
+    {
+        options.Authority = "todo-api-cqrs.firebaseapp.com";
+        options.TokenValidationParameters = new TokenValidationParameters
+        {
+            ValidateIssuer = true,
+            ValidIssuer = "todo-api-cqrs.firebaseapp.com",
+            ValidateAudience = true,
+            ValidAudience = "todo-api-cqrs",
+            ValidateLifetime = true,
+        };
+    });
+
+
+
 
 
 builder.Services.AddEndpointsApiExplorer();

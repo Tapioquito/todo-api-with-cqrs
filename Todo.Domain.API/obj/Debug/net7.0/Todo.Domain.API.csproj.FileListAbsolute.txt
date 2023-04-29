@@ -80,3 +80,4 @@ C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain.API\bin\Debug\net7.0\Microso
 C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain.API\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
