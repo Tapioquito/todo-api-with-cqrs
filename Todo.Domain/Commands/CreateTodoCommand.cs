@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 using Todo.Domain.Commands.Contracts;
@@ -21,12 +22,17 @@ namespace Todo.Domain.Commands
             Title = title;
             Date = date;
             User = user;
-            AddNotifications(new CreateTodoContract(this));
+
+            //AddNotifications(new CreateTodoContract(this));
         }
 
         public string Title { get; set; }
         public DateTime Date { get; set; }
         public string User { get; set; }
+        public void Validate()
+        {
+            AddNotifications(new CreateTodoContract(this));
+        }
 
     }
 }

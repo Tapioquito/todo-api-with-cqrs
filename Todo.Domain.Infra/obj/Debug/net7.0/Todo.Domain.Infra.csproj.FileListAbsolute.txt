@@ -10,3 +10,8 @@ C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain.Infra\obj\Debug\net7.0\Todo.
 C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain.Infra\obj\Debug\net7.0\refint\Todo.Domain.Infra.dll
 C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain.Infra\obj\Debug\net7.0\Todo.Domain.Infra.pdb
 C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain.Infra\obj\Debug\net7.0\ref\Todo.Domain.Infra.dll
+C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain.Infra\bin\Debug\net7.0\Todo.Domain.Infra.runtimeconfig.json
+C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain.Infra\bin\Debug\net7.0\Todo.Domain.dll
+C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain.Infra\bin\Debug\net7.0\Todo.Domain.pdb
+C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain.Infra\obj\Debug\net7.0\Todo.Domain.Infra.csproj.CopyComplete
+C:\dev\ToDo_API_CQRS\todo-api-with-cqrs\Todo.Domain.Infra\obj\Debug\net7.0\Todo.Domain.Infra.genruntimeconfig.cache

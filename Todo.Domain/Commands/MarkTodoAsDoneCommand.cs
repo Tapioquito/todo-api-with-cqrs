@@ -16,10 +16,14 @@ namespace Todo.Domain.Commands
         {
             Id = id;
             User = user;
-            AddNotifications(new MarkTodoAsDoneContract(this));
+            ///AddNotifications(new MarkTodoAsDoneContract(this));
         }
 
         public Guid Id { get; set; }
         public string User { get; set; }
+        public void Validate()
+        {
+            AddNotifications(new MarkTodoAsDoneContract(this));
+        }
     }
 }

@@ -20,11 +20,15 @@ namespace Todo.Domain.Commands
             Id = id;
             Title = title;
             User = user;
-            AddNotifications(new UpdateTodoContract(this));
+            //AddNotifications(new UpdateTodoContract(this));
         }
 
         public Guid Id { get; set; }
         public string Title { get; set; }
         public string User { get; set; }
+        public void Validate()
+        {
+            AddNotifications(new UpdateTodoContract(this));
+        }
     }
 }
